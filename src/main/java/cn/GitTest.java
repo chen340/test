@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git by hot");
         System.out.println("master分支第一次修改");
+        System.out.println("hot分支修改");
 
 
     }
